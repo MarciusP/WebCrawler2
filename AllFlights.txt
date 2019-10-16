@@ -1,0 +1,87 @@
+All the departure flights:
+Departure day: 4
+Price: 215.05 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 07:50 arrival airport: London, Heathrow (Terminal 2) arrival time: 09:35
+Departure day: 4
+Price: 171.05 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 11:10 arrival airport: London, Heathrow (Terminal 2) arrival time: 12:55
+Departure day: 4
+Price: 171.05 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 15:20 arrival airport: London, Heathrow (Terminal 2) arrival time: 17:00
+Departure day: 4
+Price: 144.05 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 16:10 arrival airport: London, Heathrow (Terminal 2) arrival time: 17:50
+Departure day: 4
+Price: 144.05 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 18:15 arrival airport: London, Heathrow (Terminal 2) arrival time: 19:55
+Departure day: 4
+Price: 171.05 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 19:40 arrival airport: London, Heathrow (Terminal 2) arrival time: 21:20
+Departure day: 4
+Price: 236.39 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 06:00 Stop over arrival time: 07:00 Stop over airport: Oslo Stop over departure: 07:45 arrival airport:  London, Heathrow (Terminal 2) arrival time: 09:20
+Departure day: 4
+Price: 236.39 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 11:05 Stop over arrival time: 12:05 Stop over airport: Oslo Stop over departure: 13:10 arrival airport:  London, Heathrow (Terminal 2) arrival time: 14:35
+Departure day: 4
+Price: 236.39 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 13:20 Stop over arrival time: 14:20 Stop over airport: Oslo Stop over departure: 15:00 arrival airport:  London, Heathrow (Terminal 2) arrival time: 16:25
+Departure day: 4
+Price: 236.39 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 14:25 Stop over arrival time: 15:25 Stop over airport: Oslo Stop over departure: 17:05 arrival airport:  London, Heathrow (Terminal 2) arrival time: 18:30
+Departure day: 4
+Price: 236.39 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 16:35 Stop over arrival time: 17:35 Stop over airport: Oslo Stop over departure: 20:15 arrival airport:  London, Heathrow (Terminal 2) arrival time: 21:35
+Departure day: 4
+Price: 192.39 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 17:35 Stop over arrival time: 18:35 Stop over airport: Oslo Stop over departure: 20:15 arrival airport:  London, Heathrow (Terminal 2) arrival time: 21:35
+All the return flights:
+Departure day: 10
+Price: 101.74 departure airport: London, Heathrow (Terminal 2) departure time: 06:40 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 10:10
+Departure day: 10
+Price: 211.55 departure airport: London, Heathrow (Terminal 2) departure time: 10:35 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 14:10
+Departure day: 10
+Price: 262.55 departure airport: London, Heathrow (Terminal 2) departure time: 13:55 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 17:30
+Departure day: 10
+Price: 262.55 departure airport: London, Heathrow (Terminal 2) departure time: 18:05 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 21:40
+Departure day: 10
+Price: 211.55 departure airport: London, Heathrow (Terminal 2) departure time: 19:00 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 22:30
+Departure day: 10
+Price: 211.55 departure airport: London, Heathrow (Terminal 2) departure time: 21:05 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 00:30
+Departure day: 10
+Price: 193.89 departure airport: London, Heathrow (Terminal 2) departure time: 10:20 Stop over arrival time: 13:30 Stop over airport: Oslo Stop over departure: 14:55 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 15:55
+Departure day: 10
+Price: 193.89 departure airport: London, Heathrow (Terminal 2) departure time: 10:20 Stop over arrival time: 13:30 Stop over airport: Oslo Stop over departure: 17:15 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 18:20
+Departure day: 10
+Price: 193.89 departure airport: London, Heathrow (Terminal 2) departure time: 10:20 Stop over arrival time: 13:30 Stop over airport: Oslo Stop over departure: 18:10 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 19:15
+Departure day: 10
+Price: 327.89 departure airport: London, Heathrow (Terminal 2) departure time: 15:35 Stop over arrival time: 18:50 Stop over airport: Oslo Stop over departure: 21:30 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 22:30
+Departure day: 10
+Price: 327.89 departure airport: London, Heathrow (Terminal 2) departure time: 17:30 Stop over arrival time: 20:40 Stop over airport: Oslo Stop over departure: 21:30 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 22:30
+Departure day: 11
+Price: 102.61 departure airport: London, Heathrow (Terminal 2) departure time: 06:40 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 10:10
+Departure day: 11
+Price: 126.44 departure airport: London, Heathrow (Terminal 2) departure time: 10:35 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 14:10
+Departure day: 11
+Price: 174.44 departure airport: London, Heathrow (Terminal 2) departure time: 13:55 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 17:30
+Departure day: 11
+Price: 126.44 departure airport: London, Heathrow (Terminal 2) departure time: 18:05 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 21:40
+Departure day: 11
+Price: 126.44 departure airport: London, Heathrow (Terminal 2) departure time: 19:00 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 22:30
+Departure day: 11
+Price: 75.79 departure airport: London, Heathrow (Terminal 2) departure time: 21:05 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 00:30
+Departure day: 11
+Price: 124.01 departure airport: London, Heathrow (Terminal 2) departure time: 07:05 Stop over arrival time: 10:15 Stop over airport: Oslo Stop over departure: 10:55 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 11:55
+Departure day: 11
+Price: 124.01 departure airport: London, Heathrow (Terminal 2) departure time: 07:05 Stop over arrival time: 10:15 Stop over airport: Oslo Stop over departure: 12:45 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 13:45
+Departure day: 11
+Price: 382.84 departure airport: London, Heathrow (Terminal 2) departure time: 10:20 Stop over arrival time: 13:30 Stop over airport: Oslo Stop over departure: 14:55 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 15:55
+Departure day: 11
+Price: 382.84 departure airport: London, Heathrow (Terminal 2) departure time: 10:20 Stop over arrival time: 13:30 Stop over airport: Oslo Stop over departure: 16:00 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 17:00
+Departure day: 11
+Price: 382.84 departure airport: London, Heathrow (Terminal 2) departure time: 15:35 Stop over arrival time: 18:50 Stop over airport: Oslo Stop over departure: 21:30 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 22:30
+Departure day: 11
+Price: 234.84 departure airport: London, Heathrow (Terminal 2) departure time: 17:30 Stop over arrival time: 20:40 Stop over airport: Oslo Stop over departure: 21:30 arrival airport:  Stockholm, Arlanda (Terminal 5) arrival time: 22:30
+All the cheapest flights and their info:
+Departure flight:
+Departure day: 4
+Price: 144.05 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 16:10 arrival airport: London, Heathrow (Terminal 2) arrival time: 17:50
+Return flight:
+Departure day: 11
+Price: 75.79 departure airport: London, Heathrow (Terminal 2) departure time: 21:05 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 00:30
+---------- 
+Departure flight:
+Departure day: 4
+Price: 144.05 departure airport: Stockholm, Arlanda (Terminal 5) departure time: 18:15 arrival airport: London, Heathrow (Terminal 2) arrival time: 19:55
+Return flight:
+Departure day: 11
+Price: 75.79 departure airport: London, Heathrow (Terminal 2) departure time: 21:05 arrival airport: Stockholm, Arlanda (Terminal 5) arrival time: 00:30
+---------- 

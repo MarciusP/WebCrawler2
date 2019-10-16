@@ -1,6 +1,7 @@
 public class Flight {
 
     private final int day;
+
     private final double price;
     private final String departureAirport, departureTime, arrivalAirport, arrivalTime;
     private String interAirport, interArrivalTime, interDepartureTime;
@@ -26,6 +27,10 @@ public class Flight {
         this.interAirport = interAirport;
         this.interArrivalTime = interArrivalTime;
         this.interDepartureTime = interDepartureTime;
+    }
+
+    public double getPrice() {
+        return price;
     }
 
     public String toString(){
