@@ -12,6 +12,7 @@ public class Task2 {
     private static List<Flight> flights = new ArrayList<>();
     private static List<Flight> departFlights;
 
+    //Prints all the flights and cheapest round flight combinations to file
     private static void printToFile(List<List> combinations)
     {
         try{
@@ -54,10 +55,11 @@ public class Task2 {
         }
     }
 
+    //Calculates prices of round flights and sorts out the cheapest ones
     private static void calculatePrices(){
         List<List> combinations = new ArrayList<>();
         List<Flight> cheapest = new ArrayList<>();
-        double lowestPrice = -2;
+        double lowestPrice = -2; //price is set to -2 to get the first combination of flights
 
         for (Flight depFlight: departFlights) {
             for (Flight arrFlight : flights) {
@@ -89,6 +91,7 @@ public class Task2 {
         printToFile(combinations);
     }
 
+    //Parses provided table and writes all the fitting flights to list
     private static void parseTable(Element table, int day){
         Elements rows = table.select("tr");
 
@@ -114,6 +117,7 @@ public class Task2 {
                     indirect = false;
                 }
 
+                //All the values below are zeroed from previous flight
                 price = -2;
                 departureTime ="";
                 departureAirport ="";
@@ -121,7 +125,9 @@ public class Task2 {
                 arrivalAirport ="";
                 interArrivalTime = "";
 
-                for (String p: prices.replace("€", "").replace(",", ".").split(" ")) {
+                //selects cheapest price in prices row and converts it to double
+                for (String p: prices.replace("€", "").replace(".","")
+                        .replace(",", ".").split(" ")){
                     if(!p.equals("-")){
                         price = Double.parseDouble(p);
                         break;
@@ -162,25 +168,31 @@ public class Task2 {
 
         try{
 
+            //Reads web page html from a file, because it wasn't accessible otherwise due to captcha
             FileInputStream fis = new FileInputStream("resources/html.txt");
             BufferedReader reader = new BufferedReader(new InputStreamReader(fis));
 
+            //Puts all the read lines into single string
             String response = "";
             for (String line; (line = reader.readLine()) != null; response += line);
 
             Document document;
+            //Parses the single sting of html to Jsoup document
             document = Jsoup.parse(response);
 
-            Element table = document.select("table").get(3); //select the first table 3 next 25.
+            //select the first table with departure flights
+            Element table = document.select("table").get(3);
             parseTable(table, 4);
 
             departFlights = flights;
             flights = new ArrayList<>();
 
-            table = document.select("table").get(25); //select the first table 3 next 25.
+            //select the second table with return flights for day 10
+            table = document.select("table").get(25);
             parseTable(table, 10);
 
-            table = document.select("table").get(44); //select the first table 3 next 25 next 44.
+            //select the second table with return flights for day 11
+            table = document.select("table").get(44);
             parseTable(table, 11);
 
             calculatePrices();
